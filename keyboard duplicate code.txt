@@ -1,8 +1,0 @@
-  const handleKeyboardInput = (event: React.KeyboardEvent) => {
-    const key = event.key;
-    if (/^[0-9+\-*/^()=\s\b]+$/.test(key)) {
-      handleButtonClick(key);
-    } else if (key === 'Enter') {
-      handleButtonClick('=');
-    }
-  };
