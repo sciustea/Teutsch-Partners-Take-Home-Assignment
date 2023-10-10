@@ -1,0 +1,18 @@
+Below we list the minimum and preferred qualifications for this role. Please do not feel dissuaded if you do not perfectly match what is listed here; the most important factors in your success at obtaining this position are that you demonstrate strong communication skills and a willingness to learn and adapt on the go.
+
+ 
+
+Minimum Qualifications:
+
+Basic familiarity with HTML, JavaScript, CSS
+Solid understanding of git and version control
+ 
+
+Preferred Qualifications:
+
+2+ years experience with HTML, JavaScript and CSS
+2+ years experience using git and github on collaborative project
+Experience with Firebase
+Experience with Python
+Experience with SQL
+Have built and launched a website or web app
