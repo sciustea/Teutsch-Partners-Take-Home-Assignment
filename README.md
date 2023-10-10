@@ -1,0 +1,1 @@
+# Teutsch-Partners-Take-Home-Assignment
