@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Teutsch-Partners-Take-Home-Assignment/static/css/main.1bdd13c2.css",
+    "main.js": "/Teutsch-Partners-Take-Home-Assignment/static/js/main.e947d85f.js",
+    "static/js/787.3ca22d95.chunk.js": "/Teutsch-Partners-Take-Home-Assignment/static/js/787.3ca22d95.chunk.js",
+    "index.html": "/Teutsch-Partners-Take-Home-Assignment/index.html",
+    "main.1bdd13c2.css.map": "/Teutsch-Partners-Take-Home-Assignment/static/css/main.1bdd13c2.css.map",
+    "main.e947d85f.js.map": "/Teutsch-Partners-Take-Home-Assignment/static/js/main.e947d85f.js.map",
+    "787.3ca22d95.chunk.js.map": "/Teutsch-Partners-Take-Home-Assignment/static/js/787.3ca22d95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bdd13c2.css",
+    "static/js/main.e947d85f.js"
+  ]
+}
